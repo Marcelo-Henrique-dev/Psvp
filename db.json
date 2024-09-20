@@ -1,0 +1,144 @@
+{
+    "doacoes": [
+        {
+            "id": 1,
+            "title": "Reforma da cozinha",
+            "temos": 1500,
+            "valor": 8000,
+            "descricao": "Doações para a reforma da cozinha comunitária, visando melhorar as condições de preparo de alimentos."
+        },
+        {
+            "id": 2,
+            "title": "Compra de livros",
+            "temos": 500,
+            "valor": 2000,
+            "descricao": "Aquisição de novos livros para a biblioteca pública, incentivando a leitura entre jovens e adultos."
+        },
+        {
+            "id": 3,
+            "title": "Construção de parque",
+            "temos": 7000,
+            "valor": 15000,
+            "descricao": "Projeto para a construção de um parque infantil no bairro, proporcionando um espaço seguro para as crianças."
+        },
+        {
+            "id": 4,
+            "title": "Equipamentos esportivos",
+            "temos": 1200,
+            "valor": 5000,
+            "descricao": "Compra de equipamentos esportivos para a escola local, incentivando a prática de esportes entre os alunos."
+        },
+        {
+            "id": 5,
+            "title": "Reforma do salão comunitário",
+            "temos": 2500,
+            "valor": 10000,
+            "descricao": "Reforma do salão comunitário para eventos e reuniões, melhorando a infraestrutura local."
+        },
+        {
+            "id": 6,
+            "title": "Campanha de vacinação",
+            "temos": 3000,
+            "valor": 12000,
+            "descricao": "Campanha de vacinação gratuita para a população, visando aumentar a imunização contra doenças."
+        },
+        {
+            "id": 7,
+            "title": "Projeto de reciclagem",
+            "temos": 800,
+            "valor": 3000,
+            "descricao": "Iniciativa para implementar um sistema de reciclagem no bairro, promovendo a sustentabilidade."
+        },
+        {
+            "id": 8,
+            "title": "Aulas de música",
+            "temos": 600,
+            "valor": 2500,
+            "descricao": "Oferecimento de aulas de música gratuitas para crianças e adolescentes, incentivando o desenvolvimento artístico."
+        },
+        {
+            "id": 9,
+            "title": "Reforma do campo de futebol",
+            "temos": 4000,
+            "valor": 15000,
+            "descricao": "Reforma do campo de futebol comunitário, melhorando as condições para a prática esportiva."
+        },
+        {
+            "id": 10,
+            "title": "Programa de alfabetização",
+            "temos": 1000,
+            "valor": 5000,
+            "descricao": "Programa de alfabetização para adultos, visando reduzir o analfabetismo na comunidade."
+        },
+        {
+            "id": 11,
+            "title": "Construção de ciclovia",
+            "temos": 5000,
+            "valor": 20000,
+            "descricao": "Projeto para a construção de uma ciclovia, incentivando o uso de bicicletas e a mobilidade sustentável."
+        },
+        {
+            "id": 12,
+            "title": "Reforma da praça",
+            "temos": 2000,
+            "valor": 8000,
+            "descricao": "Reforma da praça central, incluindo novos bancos, iluminação e paisagismo."
+        },
+        {
+            "id": 13,
+            "title": "Aulas de informática",
+            "temos": 700,
+            "valor": 3000,
+            "descricao": "Oferecimento de aulas de informática para idosos, promovendo a inclusão digital."
+        },
+        {
+            "id": 14,
+            "title": "Projeto de hortas comunitárias",
+            "temos": 900,
+            "valor": 4000,
+            "descricao": "Criação de hortas comunitárias, incentivando a produção de alimentos orgânicos e a integração social."
+        },
+        {
+            "id": 15,
+            "title": "Reforma do centro de saúde",
+            "temos": 3500,
+            "valor": 15000,
+            "descricao": "Reforma do centro de saúde local, melhorando o atendimento à população."
+        },
+        {
+            "id": 16,
+            "title": "Aulas de artesanato",
+            "temos": 500,
+            "valor": 2000,
+            "descricao": "Oferecimento de aulas de artesanato para mulheres, incentivando a geração de renda."
+        },
+        {
+            "id": 17,
+            "title": "Construção de quadra poliesportiva",
+            "temos": 6000,
+            "valor": 25000,
+            "descricao": "Projeto para a construção de uma quadra poliesportiva, promovendo a prática de diversas modalidades esportivas."
+        },
+        {
+            "id": 18,
+            "title": "Reforma da escola",
+            "temos": 4000,
+            "valor": 20000,
+            "descricao": "Reforma da escola municipal, melhorando as condições de ensino e aprendizagem."
+        },
+        {
+            "id": 19,
+            "title": "Programa de apoio psicológico",
+            "temos": 1500,
+            "valor": 7000,
+            "descricao": "Programa de apoio psicológico gratuito para a comunidade, visando o bem-estar mental."
+        },
+        {
+            "id": 20,
+            "title": "Projeto de energia solar",
+            "temos": 8000,
+            "valor": 30000,
+            "descricao": "Instalação de painéis solares em prédios públicos, promovendo a energia renovável."
+        }
+    ]
+}
